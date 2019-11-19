@@ -1,0 +1,210 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1-2817
+INJECTED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1-2817
+INJECTED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1-2817
+INJECTED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1-2817
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2747a6bd2aba0ba52eb2e6a79ac09f04\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\be38d880c4deef41ab6e90d3880ed983\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\52c2aa0e7e2911e5deafabbcaa4fa13a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\40e366af2d73dbd226122edafc4ccbb2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9033cfbc787f8b29a2cb6d5aae66bc51\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\676c9be49739aecbdd15d3724a8b8aad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\84020bf1fdc3930e4022bf2b8457e114\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\d6b47d0bc6d66826e999757425b4f277\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\59eef43739452528b0dfbfabc24437db\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cdb099bd75467a8293b4e0925827c951\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\8d81fe4f4d8c51dcb0a8a5b52d3c8fe2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\12fd4a3860af65ef91a68abc3d98a5e1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1ad1c250d1e85381b13aeadf62d32ed1\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1-2817
+INJECTED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1-2817
+INJECTED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1-2817
+	package
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:70-106
+		INJECTED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml
+		INJECTED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:107-136
+		INJECTED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml
+		INJECTED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:137-160
+		INJECTED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml
+		INJECTED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml
+	android:installLocation
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:161-191
+application
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:192-2504
+	android:label
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:267-299
+	android:resizeableActivity
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:370-403
+	android:largeHeap
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:344-368
+	android:icon
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:300-343
+	android:usesCleartextTraffic
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:404-439
+	android:name
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:205-266
+activity#com.mycompany.ts_broadcast.wdgen.GWDPTS_Broadcast$WDLanceur
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:440-856
+	android:label
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:499-531
+	android:configChanges
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:601-703
+	android:theme
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:532-600
+	android:name
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:450-498
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:704-845
+action#android.intent.action.MAIN
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:719-770
+	android:name
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:727-768
+category#android.intent.category.LAUNCHER
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:770-829
+	android:name
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:780-827
+activity#com.mycompany.ts_broadcast.wdgen.GWDFWIN_Main$WDActiviteFenetre
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:856-1096
+	android:hardwareAccelerated
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1059-1094
+	android:configChanges
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:919-1021
+	android:theme
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1022-1058
+	android:name
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:866-918
+uses-library#org.apache.http.legacy
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1096-1174
+	android:required
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1148-1172
+	android:name
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1110-1147
+activity#fr.pcsoft.wdjava.core.erreur.report.WDErrorReportActivity
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1174-1374
+	xmlns:android
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1184-1242
+	android:theme
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1316-1372
+	android:name
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1243-1315
+activity#fr.pcsoft.wdjava.ui.activite.WDActivite$BlankActivity
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1374-1562
+	xmlns:android
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1384-1442
+	android:theme
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1512-1560
+	android:name
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1443-1511
+activity#fr.pcsoft.wdjava.ui.searchbar.WDSearchActivity
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1562-1906
+	android:label
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1693-1725
+	xmlns:android
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1572-1630
+	android:name
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1631-1692
+intent-filter#action:name:android.intent.action.SEARCH
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1726-1810
+action#android.intent.action.SEARCH
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1741-1794
+	android:name
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1749-1792
+meta-data#android.app.searchable
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1810-1895
+	android:resource
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1859-1893
+	android:name
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1821-1858
+provider#fr.pcsoft.wdjava.ui.searchbar.WDSearchHistory
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1906-2111
+	android:authorities
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2061-2109
+	android:exported
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2036-2060
+	xmlns:android
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1916-1974
+	android:name
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1975-2035
+service#fr.pcsoft.wdjava.core.service.WDServiceLocal
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2111-2181
+	android:name
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2120-2179
+meta-data#fr.pcsoft.first_window_name
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2181-2261
+	android:value
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2235-2259
+	android:name
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2192-2234
+meta-data#fr.pcsoft.splash_orientation_phone
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2261-2341
+	android:value
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2322-2339
+	android:name
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2272-2321
+meta-data#fr.pcsoft.splash_orientation_tablet
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2341-2422
+	android:value
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2403-2420
+	android:name
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2352-2402
+meta-data#fr.pcsoft.multidex
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2422-2490
+	android:value
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2467-2488
+	android:name
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2433-2466
+uses-sdk
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2504-2572
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2747a6bd2aba0ba52eb2e6a79ac09f04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2747a6bd2aba0ba52eb2e6a79ac09f04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\be38d880c4deef41ab6e90d3880ed983\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\be38d880c4deef41ab6e90d3880ed983\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\52c2aa0e7e2911e5deafabbcaa4fa13a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\52c2aa0e7e2911e5deafabbcaa4fa13a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\40e366af2d73dbd226122edafc4ccbb2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\40e366af2d73dbd226122edafc4ccbb2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9033cfbc787f8b29a2cb6d5aae66bc51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9033cfbc787f8b29a2cb6d5aae66bc51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\676c9be49739aecbdd15d3724a8b8aad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\676c9be49739aecbdd15d3724a8b8aad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\84020bf1fdc3930e4022bf2b8457e114\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\84020bf1fdc3930e4022bf2b8457e114\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\d6b47d0bc6d66826e999757425b4f277\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\d6b47d0bc6d66826e999757425b4f277\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\59eef43739452528b0dfbfabc24437db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\59eef43739452528b0dfbfabc24437db\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cdb099bd75467a8293b4e0925827c951\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cdb099bd75467a8293b4e0925827c951\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\8d81fe4f4d8c51dcb0a8a5b52d3c8fe2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\8d81fe4f4d8c51dcb0a8a5b52d3c8fe2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\12fd4a3860af65ef91a68abc3d98a5e1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\12fd4a3860af65ef91a68abc3d98a5e1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1ad1c250d1e85381b13aeadf62d32ed1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1ad1c250d1e85381b13aeadf62d32ed1\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2541-2570
+	android:minSdkVersion
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2514-2540
+supports-screens
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2572-2731
+	android:largeScreens
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2647-2674
+	android:smallScreens
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2590-2617
+	android:normalScreens
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2618-2646
+	android:xlargeScreens
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2675-2703
+	android:anyDensity
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2704-2729
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2731-2806
+	android:name
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2748-2804
