@@ -8,6 +8,6 @@ public final class BuildConfig {
   public static final String APPLICATION_ID = "com.mycompany.ts_broadcast";
   public static final String BUILD_TYPE = "debug";
   public static final String FLAVOR = "";
-  public static final int VERSION_CODE = 10;
-  public static final String VERSION_NAME = "0.0.10.0";
+  public static final int VERSION_CODE = 36;
+  public static final String VERSION_NAME = "0.0.14.0";
 }
