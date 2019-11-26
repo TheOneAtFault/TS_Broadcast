@@ -1,11 +1,12 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1-3664
-INJECTED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1-3664
-INJECTED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1-3664
-INJECTED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1-3664
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1-3604
+INJECTED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1-3604
+INJECTED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1-3604
+INJECTED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1-3604
 MERGED from [com.android.support:support-v4:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2747a6bd2aba0ba52eb2e6a79ac09f04\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\be38d880c4deef41ab6e90d3880ed983\AndroidManifest.xml:17:1-22:12
+MERGED from [:touchnfc2:] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\touchnfc2.aar\81dd6f3789e01796b82db79afa43985e\AndroidManifest.xml:2:1-13:12
 MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\52c2aa0e7e2911e5deafabbcaa4fa13a\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\40e366af2d73dbd226122edafc4ccbb2\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9033cfbc787f8b29a2cb6d5aae66bc51\AndroidManifest.xml:17:1-22:12
@@ -17,9 +18,9 @@ MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\MJ\.gradle\caches\tr
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\8d81fe4f4d8c51dcb0a8a5b52d3c8fe2\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\12fd4a3860af65ef91a68abc3d98a5e1\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1ad1c250d1e85381b13aeadf62d32ed1\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1-3664
-INJECTED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1-3664
-INJECTED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1-3664
+INJECTED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1-3604
+INJECTED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1-3604
+INJECTED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1-3604
 	package
 		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:70-106
 		INJECTED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml
@@ -194,6 +195,8 @@ MERGED from [com.android.support:support-v4:27.1.1] C:\Users\MJ\.gradle\caches\t
 MERGED from [com.android.support:support-v4:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2747a6bd2aba0ba52eb2e6a79ac09f04\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\be38d880c4deef41ab6e90d3880ed983\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\be38d880c4deef41ab6e90d3880ed983\AndroidManifest.xml:20:5-44
+MERGED from [:touchnfc2:] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\touchnfc2.aar\81dd6f3789e01796b82db79afa43985e\AndroidManifest.xml:7:5-9:41
+MERGED from [:touchnfc2:] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\touchnfc2.aar\81dd6f3789e01796b82db79afa43985e\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\52c2aa0e7e2911e5deafabbcaa4fa13a\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\52c2aa0e7e2911e5deafabbcaa4fa13a\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\40e366af2d73dbd226122edafc4ccbb2\AndroidManifest.xml:20:5-44
@@ -238,15 +241,13 @@ ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:
 		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3404-3460
 uses-permission#android.permission.NFC
 ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3462-3518
+MERGED from [:touchnfc2:] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\touchnfc2.aar\81dd6f3789e01796b82db79afa43985e\AndroidManifest.xml:11:5-62
+MERGED from [:touchnfc2:] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\touchnfc2.aar\81dd6f3789e01796b82db79afa43985e\AndroidManifest.xml:11:5-62
 	android:name
 		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3479-3516
-uses-permission#android.permission.VIBRATE
-ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3518-3578
-	android:name
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3535-3576
 uses-feature#android.hardware.nfc
-ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3578-3653
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3518-3593
 	android:required
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3628-3651
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3568-3591
 	android:name
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3592-3627
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3532-3567

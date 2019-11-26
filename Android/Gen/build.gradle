@@ -102,6 +102,7 @@ dependencies {
 	// Local binary dependency
 	implementation fileTree(dir: getProject().file('libs'), include: ['*.jar'], exclude: 'libs/fmkJava.jar')
 	implementation files(getProject().file('libs/fmkJava.jar'))
+	implementation(name:'touchnfc2', ext:'aar')
 
 }
 
