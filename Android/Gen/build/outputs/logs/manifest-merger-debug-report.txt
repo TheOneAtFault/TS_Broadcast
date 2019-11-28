@@ -1,11 +1,12 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1-3604
-INJECTED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1-3604
-INJECTED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1-3604
-INJECTED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1-3604
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1-3854
+INJECTED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1-3854
+INJECTED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1-3854
+INJECTED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1-3854
 MERGED from [com.android.support:support-v4:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2747a6bd2aba0ba52eb2e6a79ac09f04\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\be38d880c4deef41ab6e90d3880ed983\AndroidManifest.xml:17:1-22:12
+MERGED from [:TouchsidesIntentServiceAPI:] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\TouchsidesIntentServiceAPI.aar\e1dd47fea734e14f95872f6ca30f09c5\AndroidManifest.xml:2:1-11:12
 MERGED from [:touchnfc2:] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\touchnfc2.aar\81dd6f3789e01796b82db79afa43985e\AndroidManifest.xml:2:1-13:12
 MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\52c2aa0e7e2911e5deafabbcaa4fa13a\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\40e366af2d73dbd226122edafc4ccbb2\AndroidManifest.xml:17:1-22:12
@@ -18,9 +19,9 @@ MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\MJ\.gradle\caches\tr
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\8d81fe4f4d8c51dcb0a8a5b52d3c8fe2\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\12fd4a3860af65ef91a68abc3d98a5e1\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1ad1c250d1e85381b13aeadf62d32ed1\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1-3604
-INJECTED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1-3604
-INJECTED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1-3604
+INJECTED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1-3854
+INJECTED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1-3854
+INJECTED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1-3854
 	package
 		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:70-106
 		INJECTED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml
@@ -32,169 +33,181 @@ INJECTED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:138-162
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:138-163
 		INJECTED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml
 		INJECTED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml
 	android:installLocation
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:163-193
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:164-194
 application
-ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:194-3160
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:195-3410
 	android:label
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:269-301
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:270-302
 	android:resizeableActivity
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:372-405
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:373-406
 	android:largeHeap
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:346-370
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:347-371
 	android:icon
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:302-345
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:303-346
 	android:usesCleartextTraffic
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:406-441
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:407-442
 	android:name
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:207-268
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:208-269
 activity#com.mycompany.ts_broadcast.wdgen.GWDPTS_Broadcast$WDLanceur
-ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:442-858
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:443-859
 	android:label
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:501-533
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:502-534
 	android:configChanges
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:603-705
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:604-706
 	android:theme
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:534-602
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:535-603
 	android:name
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:452-500
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:453-501
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:706-847
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:707-848
 action#android.intent.action.MAIN
-ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:721-772
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:722-773
 	android:name
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:729-770
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:730-771
 category#android.intent.category.LAUNCHER
-ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:772-831
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:773-832
 	android:name
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:782-829
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:783-830
 activity#com.mycompany.ts_broadcast.wdgen.GWDFWIN_Broadcasts$WDActiviteFenetre
-ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:858-1104
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:859-1105
 	android:hardwareAccelerated
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1067-1102
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1068-1103
 	android:configChanges
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:927-1029
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:928-1030
 	android:theme
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1030-1066
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1031-1067
 	android:name
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:868-926
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:869-927
+activity#com.mycompany.ts_broadcast.wdgen.GWDFWIN_WIN_Promotion$WDActiviteFenetre
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1105-1354
+	android:hardwareAccelerated
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1317-1352
+	android:configChanges
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1177-1279
+	android:theme
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1280-1316
+	android:name
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1115-1176
 activity#com.mycompany.ts_broadcast.wdgen.GWDFWIN_Main$WDActiviteFenetre
-ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1104-1344
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1354-1594
 	android:hardwareAccelerated
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1307-1342
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1557-1592
 	android:configChanges
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1167-1269
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1417-1519
 	android:theme
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1270-1306
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1520-1556
 	android:name
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1114-1166
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1364-1416
 activity#com.mycompany.ts_broadcast.wdgen.GWDFWIN_NFC$WDActiviteFenetre
-ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1344-1583
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1594-1833
 	android:hardwareAccelerated
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1546-1581
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1796-1831
 	android:configChanges
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1406-1508
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1656-1758
 	android:theme
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1509-1545
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1759-1795
 	android:name
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1354-1405
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1604-1655
 uses-library#org.apache.http.legacy
-ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1583-1661
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1833-1911
 	android:required
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1635-1659
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1885-1909
 	android:name
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1597-1634
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1847-1884
 activity#fr.pcsoft.wdjava.core.erreur.report.WDErrorReportActivity
-ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1661-1861
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1911-2111
 	xmlns:android
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1671-1729
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1921-1979
 	android:theme
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1803-1859
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2053-2109
 	android:name
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1730-1802
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1980-2052
 activity#fr.pcsoft.wdjava.ui.activite.WDActivite$BlankActivity
-ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1861-2049
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2111-2299
 	xmlns:android
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1871-1929
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2121-2179
 	android:theme
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1999-2047
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2249-2297
 	android:name
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:1930-1998
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2180-2248
 activity#fr.pcsoft.wdjava.ui.searchbar.WDSearchActivity
-ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2049-2393
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2299-2643
 	android:label
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2180-2212
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2430-2462
 	xmlns:android
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2059-2117
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2309-2367
 	android:name
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2118-2179
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2368-2429
 intent-filter#action:name:android.intent.action.SEARCH
-ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2213-2297
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2463-2547
 action#android.intent.action.SEARCH
-ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2228-2281
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2478-2531
 	android:name
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2236-2279
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2486-2529
 meta-data#android.app.searchable
-ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2297-2382
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2547-2632
 	android:resource
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2346-2380
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2596-2630
 	android:name
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2308-2345
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2558-2595
 provider#fr.pcsoft.wdjava.ui.searchbar.WDSearchHistory
-ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2393-2598
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2643-2848
 	android:authorities
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2548-2596
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2798-2846
 	android:exported
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2523-2547
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2773-2797
 	xmlns:android
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2403-2461
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2653-2711
 	android:name
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2462-2522
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2712-2772
 activity#fr.pcsoft.wdjava.nfc.WDNFCActivity
-ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2598-2767
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2848-3017
 	xmlns:android
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2608-2666
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2858-2916
 	android:theme
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2717-2765
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2967-3015
 	android:name
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2667-2716
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2917-2966
 service#fr.pcsoft.wdjava.core.service.WDServiceLocal
-ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2767-2837
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3017-3087
 	android:name
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2776-2835
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3026-3085
 meta-data#fr.pcsoft.first_window_name
-ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2837-2917
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3087-3167
 	android:value
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2891-2915
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3141-3165
 	android:name
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2848-2890
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3098-3140
 meta-data#fr.pcsoft.splash_orientation_phone
-ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2917-2997
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3167-3247
 	android:value
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2978-2995
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3228-3245
 	android:name
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2928-2977
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3178-3227
 meta-data#fr.pcsoft.splash_orientation_tablet
-ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:2997-3078
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3247-3328
 	android:value
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3059-3076
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3309-3326
 	android:name
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3008-3058
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3258-3308
 meta-data#fr.pcsoft.multidex
-ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3078-3146
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3328-3396
 	android:value
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3123-3144
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3373-3394
 	android:name
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3089-3122
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3339-3372
 uses-sdk
-ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3160-3228
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3410-3478
 MERGED from [com.android.support:support-v4:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2747a6bd2aba0ba52eb2e6a79ac09f04\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2747a6bd2aba0ba52eb2e6a79ac09f04\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\be38d880c4deef41ab6e90d3880ed983\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\be38d880c4deef41ab6e90d3880ed983\AndroidManifest.xml:20:5-44
+MERGED from [:TouchsidesIntentServiceAPI:] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\TouchsidesIntentServiceAPI.aar\e1dd47fea734e14f95872f6ca30f09c5\AndroidManifest.xml:7:5-9:41
+MERGED from [:TouchsidesIntentServiceAPI:] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\TouchsidesIntentServiceAPI.aar\e1dd47fea734e14f95872f6ca30f09c5\AndroidManifest.xml:7:5-9:41
 MERGED from [:touchnfc2:] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\touchnfc2.aar\81dd6f3789e01796b82db79afa43985e\AndroidManifest.xml:7:5-9:41
 MERGED from [:touchnfc2:] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\touchnfc2.aar\81dd6f3789e01796b82db79afa43985e\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\52c2aa0e7e2911e5deafabbcaa4fa13a\AndroidManifest.xml:20:5-44
@@ -220,34 +233,34 @@ MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\MJ\.gradle\caches\
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1ad1c250d1e85381b13aeadf62d32ed1\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1ad1c250d1e85381b13aeadf62d32ed1\AndroidManifest.xml:20:5-44
 	android:targetSdkVersion
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3197-3226
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3447-3476
 	android:minSdkVersion
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3170-3196
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3420-3446
 supports-screens
-ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3228-3387
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3478-3637
 	android:largeScreens
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3303-3330
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3553-3580
 	android:smallScreens
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3246-3273
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3496-3523
 	android:normalScreens
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3274-3302
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3524-3552
 	android:xlargeScreens
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3331-3359
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3581-3609
 	android:anyDensity
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3360-3385
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3610-3635
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3387-3462
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3637-3712
 	android:name
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3404-3460
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3654-3710
 uses-permission#android.permission.NFC
-ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3462-3518
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3712-3768
 MERGED from [:touchnfc2:] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\touchnfc2.aar\81dd6f3789e01796b82db79afa43985e\AndroidManifest.xml:11:5-62
 MERGED from [:touchnfc2:] C:\Users\MJ\.gradle\caches\transforms-1\files-1.1\touchnfc2.aar\81dd6f3789e01796b82db79afa43985e\AndroidManifest.xml:11:5-62
 	android:name
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3479-3516
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3729-3766
 uses-feature#android.hardware.nfc
-ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3518-3593
+ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3768-3843
 	android:required
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3568-3591
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3818-3841
 	android:name
-		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3532-3567
+		ADDED from C:\My Mobile Projects\TS_Broadcast\Android\Gen\AndroidManifest.xml:2:3782-3817
